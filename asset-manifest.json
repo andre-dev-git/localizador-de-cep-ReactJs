@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f42bc40.css",
-    "main.js": "/static/js/main.1e655427.js",
-    "static/js/787.1e76abe8.chunk.js": "/static/js/787.1e76abe8.chunk.js",
-    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.e20d5327f1a05620c084.ttf",
-    "index.html": "/index.html",
-    "main.0f42bc40.css.map": "/static/css/main.0f42bc40.css.map",
-    "main.1e655427.js.map": "/static/js/main.1e655427.js.map",
-    "787.1e76abe8.chunk.js.map": "/static/js/787.1e76abe8.chunk.js.map"
+    "main.css": "/localizador-de-cep-ReactJs/static/css/main.ce41a873.css",
+    "main.js": "/localizador-de-cep-ReactJs/static/js/main.7986a4e3.js",
+    "static/js/787.1e76abe8.chunk.js": "/localizador-de-cep-ReactJs/static/js/787.1e76abe8.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/localizador-de-cep-ReactJs/static/media/Montserrat-Regular.e20d5327f1a05620c084.ttf",
+    "index.html": "/localizador-de-cep-ReactJs/index.html",
+    "main.ce41a873.css.map": "/localizador-de-cep-ReactJs/static/css/main.ce41a873.css.map",
+    "main.7986a4e3.js.map": "/localizador-de-cep-ReactJs/static/js/main.7986a4e3.js.map",
+    "787.1e76abe8.chunk.js.map": "/localizador-de-cep-ReactJs/static/js/787.1e76abe8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f42bc40.css",
-    "static/js/main.1e655427.js"
+    "static/css/main.ce41a873.css",
+    "static/js/main.7986a4e3.js"
   ]
 }
