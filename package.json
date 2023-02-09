@@ -1,7 +1,7 @@
 {
   "name": "localizador-cep",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-solid-svg-icons": "^6.3.0",
@@ -23,12 +23,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "homepage": {
-    "start": "react-scripts start",
-    "name": "starter-project",
-    "homepage": "https://andre-dev-git.github.io/localizador-de-cep-ReactJs/index.html",
-    "version": "0.1.0"
   },
   "eslintConfig": {
     "extends": [
